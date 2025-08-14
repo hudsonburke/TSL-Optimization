@@ -1,6 +1,6 @@
 # TSL-Optimization
 
-Supporting materials for the ASB 2025 poster: "Optimizing Tendon Slack Length in Musculoskeletal Models Using Movement-Specific Kinematics"
+Supporting materials for the ASB 2025 poster: "Effects of error function selection and normalized fiber length range in numerical estimation of tendon slack length"
 
 ![ASB_Poster](./ASB_Poster.png)
 
