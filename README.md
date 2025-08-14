@@ -28,10 +28,6 @@ This repository contains the code, data, and analysis for a study on optimizing 
 ### Model (`models/`)
 - **`RajagopalLaiUhlrich2023.osim`**
 
-## Getting Started
-
-All analysis and results are contained in the Jupyter notebook `asb_2025_poster.ipynb`. This notebook demonstrates the complete workflow from data loading through optimization and visualization of results.
-
 ## Contact
 
 Hudson Burke - [@hudsonburke](https://github.com/hudsonburke)
