@@ -2,7 +2,7 @@
 
 Supporting materials for the ASB 2025 poster: "Effects of error function selection and normalized fiber length range in numerical estimation of tendon slack length"
 
-![ASB_Poster](./ASB_Poster.png)
+![ASB_Poster](./poster/ASB_Poster.png)
 
 ## Overview
 
@@ -11,7 +11,7 @@ This repository contains the code, data, and analysis for a study on optimizing 
 ## Repository Contents
 
 ### Main Analysis
-- **`asb_2025_poster.ipynb`** - Complete analysis workflow including data loading, TSL optimization, results visualization, and statistical comparisons across movement types
+- **`analysis.ipynb`** - Complete analysis workflow including data loading, TSL optimization, results visualization, and statistical comparisons across movement types
 
 ### Source Code (`src/`)
 - **`tsl_optimization.py`** - Core optimization functions implementing SSD and SSDP objective functions for tendon slack length estimation
