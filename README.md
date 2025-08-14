@@ -2,7 +2,7 @@
 
 Supporting materials for the ASB 2025 poster: "Optimizing Tendon Slack Length in Musculoskeletal Models Using Movement-Specific Kinematics"
 
-![ASB_Poster](./ASB_Poster.pdf)
+![ASB_Poster](./ASB_Poster.png)
 
 ## Overview
 
