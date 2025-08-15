@@ -6,7 +6,7 @@ Supporting materials for the ASB 2025 poster: "Effects of error function selecti
 
 ## Overview
 
-This repository contains the code, data, and analysis for a study on optimizing tendon slack length (TSL) parameters in musculoskeletal models. The work implements optimization algorithms to find optimal tendon slack lengths for muscles using the Manal 2004 muscle model and evaluates these parameters against different movement conditions (walking, cutting, and squatting).
+This repository contains the code, data, and analysis for a study on optimizing tendon slack length (TSL) parameters in musculoskeletal models. The work implements optimization algorithms to find optimal tendon slack lengths for muscles using methodology based on Manal 2004 and the Millard 2012 muscle model and evaluates these parameters against different movement conditions (walking, cutting, and squatting).
 
 ## Repository Contents
 
